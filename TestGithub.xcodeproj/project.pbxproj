@@ -13,6 +13,7 @@
 		8C445C2F2B0DC71C0095F62F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C445C2D2B0DC71C0095F62F /* Main.storyboard */; };
 		8C445C312B0DC71F0095F62F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C445C302B0DC71F0095F62F /* Assets.xcassets */; };
 		8C445C342B0DC71F0095F62F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C445C322B0DC71F0095F62F /* LaunchScreen.storyboard */; };
+		8C445C3C2B0DCC020095F62F /* NextVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C445C3B2B0DCC020095F62F /* NextVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8C445C302B0DC71F0095F62F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C445C332B0DC71F0095F62F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8C445C352B0DC71F0095F62F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C445C3B2B0DCC020095F62F /* NextVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				8C445C292B0DC71C0095F62F /* SceneDelegate.swift */,
 				8C445C2B2B0DC71C0095F62F /* ViewController.swift */,
 				8C445C2D2B0DC71C0095F62F /* Main.storyboard */,
+				8C445C3B2B0DCC020095F62F /* NextVC.swift */,
 				8C445C302B0DC71F0095F62F /* Assets.xcassets */,
 				8C445C322B0DC71F0095F62F /* LaunchScreen.storyboard */,
 				8C445C352B0DC71F0095F62F /* Info.plist */,
@@ -141,6 +144,7 @@
 				8C445C2C2B0DC71C0095F62F /* ViewController.swift in Sources */,
 				8C445C282B0DC71C0095F62F /* AppDelegate.swift in Sources */,
 				8C445C2A2B0DC71C0095F62F /* SceneDelegate.swift in Sources */,
+				8C445C3C2B0DCC020095F62F /* NextVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

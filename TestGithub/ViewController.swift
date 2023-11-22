@@ -15,5 +15,10 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func toNext(_ sender: UIButton) {
+        let vc = storyboard?.instantiateViewController(identifier: "NextVC") as! NextVC
+        navigationController?.pushViewController(vc, animated: true)
+        
+    }
 }
 
